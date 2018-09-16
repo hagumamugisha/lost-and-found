@@ -9,7 +9,7 @@
 		<header></header>
 		<div class="container">
 			<div class="head">
-				<h3></h3>
+				<h3>Test</h3>
 			</div>
 			<form method="get" action="submit_form.php" enctype="multipart/data-form">
 				<div class="form-group" id="item-img-container">
